@@ -3,11 +3,11 @@
   <title>Cerallin的小说站</title>
   
   <subtitle>转载请注明出处哦～虽然我觉得本站没什么人气并没有人转载...</subtitle>
-  <link href="https://www.cerallin.top/atom.xml" rel="self"/>
+  <link href="https://cerallin.github.io/writings/atom.xml" rel="self"/>
   
-  <link href="https://www.cerallin.top/"/>
+  <link href="https://cerallin.github.io/writings/"/>
   <updated>2023-01-03T15:13:21.529Z</updated>
-  <id>https://www.cerallin.top/</id>
+  <id>https://cerallin.github.io/writings/</id>
   
   <author>
     <name>Cerallin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>名称待定2</title>
-    <link href="https://www.cerallin.top/2023/01/01/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A2/"/>
-    <id>https://www.cerallin.top/2023/01/01/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A2/</id>
+    <link href="https://cerallin.github.io/writings/2023/01/01/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A2/"/>
+    <id>https://cerallin.github.io/writings/2023/01/01/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A2/</id>
     <published>2023-01-01T14:19:07.000Z</published>
     <updated>2023-01-03T15:13:21.529Z</updated>
     
@@ -32,17 +32,17 @@
     
     
     
-    <category term="连载" scheme="https://www.cerallin.top/categories/%E8%BF%9E%E8%BD%BD/"/>
+    <category term="连载" scheme="https://cerallin.github.io/writings/categories/%E8%BF%9E%E8%BD%BD/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>名称待定1</title>
-    <link href="https://www.cerallin.top/2022/12/31/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A1/"/>
-    <id>https://www.cerallin.top/2022/12/31/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A1/</id>
+    <link href="https://cerallin.github.io/writings/2022/12/31/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A1/"/>
+    <id>https://cerallin.github.io/writings/2022/12/31/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A1/</id>
     <published>2022-12-31T07:46:37.000Z</published>
     <updated>2023-01-04T10:35:34.702Z</updated>
     
@@ -76,17 +76,17 @@
     
     
     
-    <category term="连载" scheme="https://www.cerallin.top/categories/%E8%BF%9E%E8%BD%BD/"/>
+    <category term="连载" scheme="https://cerallin.github.io/writings/categories/%E8%BF%9E%E8%BD%BD/"/>
     
     
-    <category term="中篇" scheme="https://www.cerallin.top/tags/%E4%B8%AD%E7%AF%87/"/>
+    <category term="中篇" scheme="https://cerallin.github.io/writings/tags/%E4%B8%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>新冠时期的规则怪谈（404宿舍生存指南）</title>
-    <link href="https://www.cerallin.top/2022/06/01/%E6%96%B0%E5%86%A0%E6%97%B6%E6%9C%9F%E7%9A%84%E8%A7%84%E5%88%99%E6%80%AA%E8%B0%88/"/>
-    <id>https://www.cerallin.top/2022/06/01/%E6%96%B0%E5%86%A0%E6%97%B6%E6%9C%9F%E7%9A%84%E8%A7%84%E5%88%99%E6%80%AA%E8%B0%88/</id>
+    <link href="https://cerallin.github.io/writings/2022/06/01/%E6%96%B0%E5%86%A0%E6%97%B6%E6%9C%9F%E7%9A%84%E8%A7%84%E5%88%99%E6%80%AA%E8%B0%88/"/>
+    <id>https://cerallin.github.io/writings/2022/06/01/%E6%96%B0%E5%86%A0%E6%97%B6%E6%9C%9F%E7%9A%84%E8%A7%84%E5%88%99%E6%80%AA%E8%B0%88/</id>
     <published>2022-06-01T14:42:52.000Z</published>
     <updated>2023-01-03T15:13:21.532Z</updated>
     
@@ -142,17 +142,17 @@
     
     
     
-    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    <category term="短篇集" scheme="https://cerallin.github.io/writings/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>给定开头续写的活动</title>
-    <link href="https://www.cerallin.top/2022/04/01/%E7%BB%99%E5%AE%9A%E5%BC%80%E5%A4%B4%E7%BB%AD%E5%86%99%E7%9A%84%E6%B4%BB%E5%8A%A8/"/>
-    <id>https://www.cerallin.top/2022/04/01/%E7%BB%99%E5%AE%9A%E5%BC%80%E5%A4%B4%E7%BB%AD%E5%86%99%E7%9A%84%E6%B4%BB%E5%8A%A8/</id>
+    <link href="https://cerallin.github.io/writings/2022/04/01/%E7%BB%99%E5%AE%9A%E5%BC%80%E5%A4%B4%E7%BB%AD%E5%86%99%E7%9A%84%E6%B4%BB%E5%8A%A8/"/>
+    <id>https://cerallin.github.io/writings/2022/04/01/%E7%BB%99%E5%AE%9A%E5%BC%80%E5%A4%B4%E7%BB%AD%E5%86%99%E7%9A%84%E6%B4%BB%E5%8A%A8/</id>
     <published>2022-04-01T10:53:22.000Z</published>
     <updated>2023-01-03T15:13:21.534Z</updated>
     
@@ -181,17 +181,17 @@
     
     
     
-    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    <category term="短篇集" scheme="https://cerallin.github.io/writings/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>楔子</title>
-    <link href="https://www.cerallin.top/2021/07/22/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A/"/>
-    <id>https://www.cerallin.top/2021/07/22/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A/</id>
+    <link href="https://cerallin.github.io/writings/2021/07/22/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A/"/>
+    <id>https://cerallin.github.io/writings/2021/07/22/%E5%90%8D%E7%A7%B0%E5%BE%85%E5%AE%9A/</id>
     <published>2021-07-22T08:21:43.000Z</published>
     <updated>2023-01-03T15:13:21.531Z</updated>
     
@@ -207,17 +207,17 @@
     
     
     
-    <category term="连载" scheme="https://www.cerallin.top/categories/%E8%BF%9E%E8%BD%BD/"/>
+    <category term="连载" scheme="https://cerallin.github.io/writings/categories/%E8%BF%9E%E8%BD%BD/"/>
     
     
-    <category term="中篇" scheme="https://www.cerallin.top/tags/%E4%B8%AD%E7%AF%87/"/>
+    <category term="中篇" scheme="https://cerallin.github.io/writings/tags/%E4%B8%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>涟潼x咩要 补充的故事（其一）</title>
-    <link href="https://www.cerallin.top/2020/12/31/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-%E8%A1%A5%E5%85%85%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%85%B6%E4%B8%80%EF%BC%89/"/>
-    <id>https://www.cerallin.top/2020/12/31/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-%E8%A1%A5%E5%85%85%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%85%B6%E4%B8%80%EF%BC%89/</id>
+    <link href="https://cerallin.github.io/writings/2020/12/31/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-%E8%A1%A5%E5%85%85%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%85%B6%E4%B8%80%EF%BC%89/"/>
+    <id>https://cerallin.github.io/writings/2020/12/31/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-%E8%A1%A5%E5%85%85%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%88%E5%85%B6%E4%B8%80%EF%BC%89/</id>
     <published>2020-12-30T16:37:47.000Z</published>
     <updated>2022-04-02T13:13:21.169Z</updated>
     
@@ -232,19 +232,19 @@
     
     
     
-    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    <category term="短篇集" scheme="https://cerallin.github.io/writings/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
-    <category term="涟潼x咩要" scheme="https://www.cerallin.top/tags/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
+    <category term="涟潼x咩要" scheme="https://cerallin.github.io/writings/tags/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
     
   </entry>
   
   <entry>
     <title>涟潼x咩要 EX</title>
-    <link href="https://www.cerallin.top/2020/11/13/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-EX/"/>
-    <id>https://www.cerallin.top/2020/11/13/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-EX/</id>
+    <link href="https://cerallin.github.io/writings/2020/11/13/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-EX/"/>
+    <id>https://cerallin.github.io/writings/2020/11/13/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81-EX/</id>
     <published>2020-11-13T12:34:23.000Z</published>
     <updated>2023-07-31T08:06:20.094Z</updated>
     
@@ -258,19 +258,19 @@
     
     
     
-    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    <category term="短篇集" scheme="https://cerallin.github.io/writings/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
-    <category term="涟潼x咩要" scheme="https://www.cerallin.top/tags/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
+    <category term="涟潼x咩要" scheme="https://cerallin.github.io/writings/tags/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
     
   </entry>
   
   <entry>
     <title>千葵x尚桉（一）</title>
-    <link href="https://www.cerallin.top/2020/11/10/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E5%8D%83%E8%91%B5x%E5%B0%9A%E6%A1%89%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>https://www.cerallin.top/2020/11/10/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E5%8D%83%E8%91%B5x%E5%B0%9A%E6%A1%89%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <link href="https://cerallin.github.io/writings/2020/11/10/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E5%8D%83%E8%91%B5x%E5%B0%9A%E6%A1%89%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://cerallin.github.io/writings/2020/11/10/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E5%8D%83%E8%91%B5x%E5%B0%9A%E6%A1%89%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2020-11-10T05:30:09.000Z</published>
     <updated>2022-04-02T13:13:21.162Z</updated>
     
@@ -284,17 +284,17 @@
     
     
     
-    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    <category term="短篇集" scheme="https://cerallin.github.io/writings/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>涟潼x咩要</title>
-    <link href="https://www.cerallin.top/2020/11/09/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
-    <id>https://www.cerallin.top/2020/11/09/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/</id>
+    <link href="https://cerallin.github.io/writings/2020/11/09/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
+    <id>https://cerallin.github.io/writings/2020/11/09/%E4%BD%9C%E5%BC%84%E7%BE%A4%E5%8F%8B/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/</id>
     <published>2020-11-09T13:31:40.000Z</published>
     <updated>2023-01-01T14:16:38.976Z</updated>
     
@@ -308,12 +308,12 @@
     
     
     
-    <category term="短篇集" scheme="https://www.cerallin.top/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
+    <category term="短篇集" scheme="https://cerallin.github.io/writings/categories/%E7%9F%AD%E7%AF%87%E9%9B%86/"/>
     
     
-    <category term="短篇" scheme="https://www.cerallin.top/tags/%E7%9F%AD%E7%AF%87/"/>
+    <category term="短篇" scheme="https://cerallin.github.io/writings/tags/%E7%9F%AD%E7%AF%87/"/>
     
-    <category term="涟潼x咩要" scheme="https://www.cerallin.top/tags/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
+    <category term="涟潼x咩要" scheme="https://cerallin.github.io/writings/tags/%E6%B6%9F%E6%BD%BCx%E5%92%A9%E8%A6%81/"/>
     
   </entry>
   
